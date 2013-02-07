@@ -1,0 +1,21 @@
+#----------------------------------------------------#
+	R-DAX-logo
+#----------------------------------------------------#
+
+This is just a simple R-script to create a couple of 
+graphs based on financial/macroeconomic data, that I 
+could use as a logo or background images on my new 
+blog (vaitekunas.com).
+
+These models have no real ability to explain financial 
+markets - this is just an exercise in R :)
+
+#----------------------------------------------------#
+	License and sources
+#----------------------------------------------------#
+
+- Code License: MIT. Do whatever you want with it.
+- Data License: DAX data was downloaded from http://de.finance.yahoo.com.
+                yahoo licence applies to this data (http://de.docs.yahoo.com/copyright.html)
+                GDP data was downloaded from http://ec.europa.eu/eurostat
+                eurostat licence applies to this data (http://ec.europa.eu/geninfo/legal_notices_de.htm)
