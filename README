@@ -11,6 +11,17 @@ These models have no real ability to explain financial
 markets - this is just an exercise in R :)
 
 #----------------------------------------------------#
+	Running this thing
+#----------------------------------------------------#
+    - If you like, unfortunately, me run this code on
+      a windows machine, you'll have to do it in "admi-
+      nistrator mode", because in case some packages
+      have to be installed, C:\Program Files\... is not
+      writable to non-administrator users (like apps).
+    - main.R contains variable "main_R_path".
+      Change this path to where main.R is located.
+
+#----------------------------------------------------#
 	License and sources
 #----------------------------------------------------#
 
